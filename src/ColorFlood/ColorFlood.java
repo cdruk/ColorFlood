@@ -77,7 +77,7 @@ public class ColorFlood extends JFrame {
         counter = new JLabel(moves + 0);
 
         counter.setForeground(Color.white);
-        counter.setFont(new Font("counter", Font.BOLD, 20));
+        counter.setFont(new Font("counter", Font.BOLD, 25));
         infoPanel.add(counter);
 
     }
